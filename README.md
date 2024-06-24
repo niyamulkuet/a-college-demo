@@ -1,5 +1,7 @@
 # a-college-demo
+
 First one repository.
 <br>
-Author : Niyamul Kuet
+Author : Niyamul Kuet (student)
 ..
+,,
